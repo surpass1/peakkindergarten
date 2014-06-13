@@ -1,0 +1,1 @@
+Tutorial app that uses scaffolding to demonstrate how the CanCan gem works.  This application assumes that each user only has a single role, so the role for a user is stored as a string in the User table.  Since this application does not rely on a separate Role gem, it is easier for beginners to understand. 
